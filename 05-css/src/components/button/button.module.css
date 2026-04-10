@@ -1,0 +1,9 @@
+.btn{
+    display: flex;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(206, 132, 34);
+    margin: 5px;
+    border-radius: 10px;
+
+}
